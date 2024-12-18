@@ -1,9 +1,13 @@
-h1 {
+div {
+    margin: auto;
     text-align: center;
+}
+
+h1 {
     color: blue; 
-    background-color: aquamarine;
 }
 
 img {
     height: 50%;
+    width: 50%;
 }
